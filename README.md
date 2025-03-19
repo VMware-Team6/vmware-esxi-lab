@@ -58,7 +58,7 @@ ESXi, vCenter, 네트워크 가상화(vSwitch), 스토리지 연동(TrueNAS), �
 ## 🛠 개발 환경  
 | 항목              | 내용 |
 |------------------|-----------------------------------------------------|
-| **🖥 가상화 플랫폼** | VMware ESXi, vCenter Server Appliance (VCSA) |
+| **🖥 가상화 플랫폼** | VMware ESXi, VCSA |
 | **💻 호스트 장비**  | 물리 서버 및 개별 ESXi 호스트(노트북) |
 | **🌐 네트워크 구성** | vSwitch, 가상 네트워크, VLAN 설정 |
 | **🗄 스토리지**     | TrueNAS (iSCSI/NFS 연동) |
